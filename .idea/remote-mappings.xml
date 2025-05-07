@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://ruiqi.song@180.184.47.134:19134/file_system/vepfs/algorithm/ruiqi.song/anaconda3/envs/vad/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/file_system/vepfs/algorithm/ruiqi.song/helios/models/e2e/GenAD" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
